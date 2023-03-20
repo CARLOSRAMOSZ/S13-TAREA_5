@@ -1,0 +1,20 @@
+body{
+    height: 725px;
+    background-image:url(img/Unemi.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+#start{
+    color: rgb(71, 66, 75);
+    border: 5px solid black;
+    width: 500px;
+}
+#one{
+    color:rgb(153, 255, 0);
+}
+#net{
+    color:rgb(255, 0, 255);
+    
+}
